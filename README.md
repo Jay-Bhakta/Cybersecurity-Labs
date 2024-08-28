@@ -6,6 +6,19 @@ Welcome to the Cybersecurity Labs repository! This repository contains various l
 
 Below is a overview of the labs included in this repository:
 
+### Telecommunications and Networking Labs (IS3413)
+- **Lab 01**: Performed binary-to-decimal and decimal-to-binary conversions. Helping me understand the fundamental concept of binary and decimal number systems.
+- **Lab 02**: Gained famiality using Wireshark and I analyzed network traffic involving SMTP and HTTP protocols provided by my instructor. This exercise helped me understand how application layer protocols operate and how sensitive data can be captured and analyzed on a network.
+- **Lab 04**: Practiced identifying and analyzing MAC addresses. Understanding MAC addresses and their formats helps with recognizing and troubleshooting networking issues, identifying devices on a network, and enhancing network security by associating devices with their manufacturers.
+- **Lab 05**: Applied subnetting techniques to divide a larger network into smaller, more manageable subnets; analyzed network traffic samples to understand how transport layer protocols like UDP and TCP operate; and examined the differences between connectionless protocols (UDP) and connection-oriented protocols (TCP).
+- **Lab 06**: Developed an RFP for a network redesign, detailing the specifications and requirements needed to obtain competitive bids from vendors.
+- **Lab 07**: Developed a network design recommendation for a family’s home setup, balancing both wired and wireless solutions.
+- **Lab 08**: Configured VLANs (Virtual Local Area Networks) and assigned IP addresses to users within those VLANs to effectively manage and segment network traffic for different departments or functions in a business environment.
+- **Lab 09**: Analyzed MPLS and explored various aspects of VPN configurations, including types of VPNs (remote access, site-to-site, mobile VPN), authentication processes, and the use of VPNs over the public internet.
+- **Lab 10**: Explored various tools and techniques to analyze and assess internet domains and IP addresses for security and communication purposes.
+- **Lab 11**: Explored various encryption methods and cryptographic concepts related to securing information and communications.
+- **Lab 12**: Used WhatsUpGold software to manage and analyze network performance, device status, bandwidth usage, and environmental conditions. Gained practical experience in network management and monitoring.
+
 ### Operating Systems Security Labs (IS3033)
 - **Lab 01**: I explored the importance of managing and identifying running processes in a multitasking operating system, understanding CPU and memory usage for performance optimization, the role of the process scheduler, the significance of process management for cybersecurity, the basics of buffer overflow vulnerabilities, and how tools like GDB and security measures such as ASLR can be used to debug programs and prevent security breaches.
 - **Lab 02**: I explored file permissions, inode numbers, symbolic and hard links, memory management, and the use of GDB for debugging, including addressing a memory leak in a C program.
