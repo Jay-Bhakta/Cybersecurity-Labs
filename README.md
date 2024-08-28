@@ -41,7 +41,7 @@ Below is a overview of the labs included in this repository:
 
 ## How to Use This Repository
 - Navigate to the appropriate folder to view the labs for each course.
-- Each lab contains a PDF file with the lab instructions and any associated code or configurations.
+- Each lab contains a PDF or Word Doc file.
 
 ## Contact
 
