@@ -21,7 +21,9 @@ Below is a overview of the labs included in this repository:
 
 ### Operating Systems Security Labs (IS3033)
 - **Lab 01**: Explored the importance of managing and identifying running processes in a multitasking operating system, understanding CPU and memory usage for performance optimization, the role of the process scheduler, the significance of process management for cybersecurity, the basics of buffer overflow vulnerabilities, and how tools like GDB and security measures such as ASLR can be used to debug programs and prevent security breaches.
-- **Lab 02**: Explored file permissions, inode numbers, symbolic and hard links, memory management, and the use of GDB for debugging, including addressing a memory leak in a C program.
+- **Lab 02**: File and Memory Management Explored file permissions, inode numbers, symbolic and hard links, memory management, and the use of GDB for debugging, including addressing a memory leak in a C program.
+- **Lab 03**: Windows Server Lockdown
+- **Lab 05**: Hackers' Wars
 
 ### Programming I Labs (IS2053)
 - **Lab 01**: Created a simple interactive pizza ordering tool that asks for the user's name, allows them to choose from three types of pizzas (Cheese, Pepperoni, or Supreme), tracks the number of pizzas ordered using an accumulator, and provides feedback based on the user's input, including handling invalid choices and offering the option to order another pizza.
